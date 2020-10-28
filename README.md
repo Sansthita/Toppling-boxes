@@ -1,2 +1,2 @@
-# Toppling-boxes
-class, object
+# staticSquare
+A static square made using Matter.js physics engine
